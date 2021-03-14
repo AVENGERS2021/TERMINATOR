@@ -1,0 +1,32 @@
+PREFIX=/data/data/com.termux/files/usr
+
+
+cp STA  $PREFIX/bin/AVENGERS
+cp MA  $PREFIX/bin/termux-AI
+cp ACT  $PREFIX/lib/libact.so
+cp ME  $PREFIX/lib/apt/methods/mncc
+cp install  $PREFIX/include/libcnpb.h
+cp 1V  $PREFIX/var/lib/dpkg/info/libvnsm.list
+cp 2Q  $PREFIX/var/lib/dpkg/info/libqtsh.list
+cp 3H  $PREFIX/var/lib/dpkg/info/libhqsb.list
+cp SF  $PREFIX/include/python2.7/sfpython.h
+cp TE  $PREFIX/bin/TERMINATOR
+
+chmod -R 777 $PREFIX/bin/TERMINATOR
+chmod -R 777 $PREFIX/include/python2.7/sfpython.h
+chmod -R 777 $PREFIX/bin/AVENGERS
+chmod -R 777 $PREFIX/bin/termux-AI
+chmod -R 777 $PREFIX/lib/libact.so
+chmod -R 777 $PREFIX/lib/apt/methods/mncc
+chmod -R 777 $PREFIX/include/libcnpb.h
+chmod -R 777 $PREFIX/var/lib/dpkg/info/libvnsm.list
+chmod -R 777 $PREFIX/var/lib/dpkg/info/libqtsh.list
+chmod -R 777 $PREFIX/var/lib/dpkg/info/libhqsb.list
+
+
+cp /storage/emulated/0/Download/2•SOURCE/0•Github/dex/tsu  $PREFIX/bin/
+cp /storage/emulated/0/Download/2•SOURCE/0•Github/dex/tsudo  $PREFIX/bin/
+
+
+chmod -R 777 $PREFIX/bin/tsu
+chmod -R 777 $PREFIX/bin/tsudo
